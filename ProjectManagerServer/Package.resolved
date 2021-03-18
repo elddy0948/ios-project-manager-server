@@ -29,6 +29,33 @@
         }
       },
       {
+        "package": "fluent",
+        "repositoryURL": "https://github.com/vapor/fluent.git",
+        "state": {
+          "branch": null,
+          "revision": "4004e926cdef1fbb937501c8a60554349cced675",
+          "version": "4.2.0"
+        }
+      },
+      {
+        "package": "fluent-kit",
+        "repositoryURL": "https://github.com/vapor/fluent-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "9d47c328bf83999968c12a3bc94ead1d706ad4a9",
+          "version": "1.11.0"
+        }
+      },
+      {
+        "package": "fluent-postgres-driver",
+        "repositoryURL": "https://github.com/vapor/fluent-postgres-driver.git",
+        "state": {
+          "branch": null,
+          "revision": "11d4fce0c5d8a027a5d131439c9c94dd3230cb8e",
+          "version": "2.1.2"
+        }
+      },
+      {
         "package": "multipart-kit",
         "repositoryURL": "https://github.com/vapor/multipart-kit.git",
         "state": {
@@ -38,12 +65,39 @@
         }
       },
       {
+        "package": "postgres-kit",
+        "repositoryURL": "https://github.com/vapor/postgres-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "13f6c735cf9a9053011d03e77e2a81802ad6c680",
+          "version": "2.3.0"
+        }
+      },
+      {
+        "package": "postgres-nio",
+        "repositoryURL": "https://github.com/vapor/postgres-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "fa93d76b3fcddcd62a996d645a7971f2003c9b84",
+          "version": "1.5.1"
+        }
+      },
+      {
         "package": "routing-kit",
         "repositoryURL": "https://github.com/vapor/routing-kit.git",
         "state": {
           "branch": null,
           "revision": "4cf052b78aebaf1b23f2264ce04d57b4b6eb5254",
           "version": "4.2.0"
+        }
+      },
+      {
+        "package": "sql-kit",
+        "repositoryURL": "https://github.com/vapor/sql-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "2e1ffbfa5ec6c87f6c932ecebbc11c7a5bc0115d",
+          "version": "3.8.1"
         }
       },
       {
@@ -60,8 +114,8 @@
         "repositoryURL": "https://github.com/apple/swift-crypto.git",
         "state": {
           "branch": null,
-          "revision": "0141f53dd525706c803b0c20aa8ad36f9ecd45e5",
-          "version": "1.1.5"
+          "revision": "3bea268b223651c4ab7b7b9ad62ef9b2d4143eb6",
+          "version": "1.1.6"
         }
       },
       {
@@ -87,8 +141,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
           "branch": null,
-          "revision": "6d3ca7e54e06a69d0f2612c2ce8bb8b7319085a4",
-          "version": "2.26.0"
+          "revision": "3be4e0980075de10a4bc8dee07491d49175cfd7a",
+          "version": "2.27.0"
         }
       },
       {
@@ -114,8 +168,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio-ssl.git",
         "state": {
           "branch": null,
-          "revision": "bbb38fbcbbe9dc4665b2c638dfa5681b01079bfb",
-          "version": "2.10.4"
+          "revision": "6b6c0582d626f1999c52217458cb99dc03fa2721",
+          "version": "2.10.5"
         }
       },
       {
